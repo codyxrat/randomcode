@@ -1,13 +1,9 @@
-# subliime javac build incase need for nazi platform regime on class kek
-
-#java jdk17 SE
+# subliime javac build 
 
 https://www.oracle.com/java/technologies/downloads/
 
 ----------------------------------------------
 
-
-# adding just basic files for sharing cuz fuck onedrive 
 
  
  NAMWE: MinJavaC.sublime-build
